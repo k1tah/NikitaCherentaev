@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikitaCherentaev!
 - 👀 I’m interested in android developement.
 - 🌱 I’m currently learning Kotlin lang for android.
-- 💞️ I’m looking to collaborate on Yandex.
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me: email - nicita.cr@gmail.com
                       
 
